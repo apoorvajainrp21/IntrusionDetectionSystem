@@ -1,4 +1,4 @@
-**Project Overview**
+**Project Overview** 
 The Intrusion Detection System with Explainable AI (IDS-XAI) is a machine learning-based cybersecurity solution designed to detect malicious activity and intrusions in 
 a computer network. The project leverages advanced machine learning algorithms and explainable AI techniques to not only identify potential threats but also provide clear 
 and interpretable reasons behind each detection, ensuring transparency and trust in the system’s decisions.
@@ -58,6 +58,8 @@ Data
 The dataset used in this project contains network traffic logs with labeled intrusion data. You can find the dataset at Kaggle's NSL-KDD dataset or any other suitable network traffic dataset.
 
 **Data Preprocessing**
+Link to the dataset: url = "https://raw.githubusercontent.com/defcom17/NSL_KDD/master/KDDTrain+.txt"
+
 Data is cleaned and preprocessed by removing irrelevant features, handling missing values, and encoding categorical variables.
 Model Explanation
 This project employs a machine learning model (e.g., Random Forest, XGBoost) to classify normal and malicious network traffic.
