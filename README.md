@@ -1,4 +1,4 @@
-Project Overview
+**Project Overview**
 The Intrusion Detection System with Explainable AI (IDS-XAI) is a machine learning-based cybersecurity solution designed to detect malicious activity and intrusions in 
 a computer network. The project leverages advanced machine learning algorithms and explainable AI techniques to not only identify potential threats but also provide clear 
 and interpretable reasons behind each detection, ensuring transparency and trust in the system’s decisions.
